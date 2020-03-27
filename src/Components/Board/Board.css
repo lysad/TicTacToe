@@ -1,0 +1,13 @@
+h3 {
+    padding-top: 1em;
+    color: purple;
+    text-align: center;
+}
+
+.status {
+    text-align: center;
+}
+
+.board-row {
+    align-items: center;
+}
